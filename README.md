@@ -1,1 +1,1 @@
-"# College-Home-Page-project" 
+# KEC College Home Page project using Html & CSS 
